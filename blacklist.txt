@@ -1,1 +1,2 @@
 http://foo.bar.com
+http://bar.foo.com
