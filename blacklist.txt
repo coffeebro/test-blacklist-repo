@@ -2,3 +2,4 @@ http://foo.bar.com
 http://bar.foo.com
 https://aaron.scantl.in
 http://lmcyclients.com
+https://www.reddit.com/r/netsec/comments/6cuq7j/generic_root_exploit_against_kde/
