@@ -188,3 +188,4 @@ http://carefit.agency
 http://hotdisk.world
 https://babybees.vn/wp-contents/OWA/
 http://verification.citisltd.com/frontendEmailservicemail_domain_checkconnectioncheck_email_verification.html
+https://babybees.vn/wp-contents/OWA/67999203bf403d282c87c619a8920f06/login.html?https://CookieAuth.dll?GetLogon?curl=Z2FowaZ2F&reason=0&formdir=4
